@@ -14,8 +14,8 @@ Segue para baixo para ver mais algumas informações legais!
 
 <div display="inline">
   <a href="https://github.com/PedroDevilirio">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=pedrodevilirio&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodevilirio&layout=compact&langs_count=7&theme=darcula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrodevilirio&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodevilirio&layout=compact&langs_count=7&theme=darcula"/>
   </a>
 </div>
 
