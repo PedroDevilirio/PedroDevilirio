@@ -21,7 +21,7 @@ Segue para baixo para ver mais algumas informações legais!
 
 E tem mais algumas coisas legais, como as tecnologias que eu estou estudando! 👇👇
 
-<div display='inline-block'>
+<div display='inline'>
   <img align="center" alt="Devi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Devi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Devi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
