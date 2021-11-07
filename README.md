@@ -19,17 +19,6 @@ Segue para baixo para ver mais algumas informações legais!
   </a>
 </div>
 
-E tem mais algumas coisas legais, como as tecnologias que eu estou estudando! 👇👇
 
-<div display='inline'>
-  <img align="center" alt="Devi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Devi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Devi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Devi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Devi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- </div>
- 
- ##
-
-👀👀 Estou montando alguns projetinhos com essas tecnologias, então em breve os respectivos repositórios aparecerão para vocês darem aquela bisbilhotada! 👀👀
+👀👀 Estou montando um proejeto! 👀👀
  
