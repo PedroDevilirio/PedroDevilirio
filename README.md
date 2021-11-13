@@ -1,7 +1,7 @@
 ### Olá, me chamo Pedro, Devilirio para os intimos.
 
 - 🔭 Atualmente empregado não na área.
-- 🌱 Estudando o básico para ir progredindo, por enquanto em metodologias ágeis e Git.
+- 🌱 Estudando o básico para ir progredindo, por enquanto em metodologias ágeis e Git. Também mexendo com Java! \o/
 - 🤔 Se puderem me auxiliar em questão de material para estudar, ou sugestões para os projetos, fiquem a vontade! Farei o melhor para ajudar, também.
 - 💬 Open-source na veia!!! 😎👌 Me dá uma chamada para algum projeto, farei o melhor para agregar valor a ele.
 - 📫 É possivel falar comigo pelo meu e-mail: 036pedro.cardoso@gmail.com
@@ -20,5 +20,5 @@ Segue para baixo para ver mais algumas informações legais!
 </div>
 
 
-👀👀 Estou montando um proejeto! 👀👀
+👀👀 Estou montando um projeto! 👀👀
  
