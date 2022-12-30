@@ -1,12 +1,12 @@
 ### Olá, me chamo Pedro, Devilirio para os intimos.
 
 - 🔭 Atualmente empregado não na área.
-- 🌱 Estudando o básico para ir progredindo, por enquanto em metodologias ágeis e Git. Também mexendo com Java! \o/
+- 🌱 Focando em AWS e desenvolvimento Java para brincar com alguns projetos em mente.
 - 🤔 Se puderem me auxiliar em questão de material para estudar, ou sugestões para os projetos, fiquem a vontade! Farei o melhor para ajudar, também.
 - 💬 Open-source na veia!!! 😎👌 Me dá uma chamada para algum projeto, farei o melhor para agregar valor a ele.
 - 📫 É possivel falar comigo pelo meu e-mail: 036pedro.cardoso@gmail.com
 - 😄 Pronomes: Ele/Dele mas também aceito ser chamado como Senhor do Universo.
-- ⚡ Fun fact: Empreendedor com muitas ideias e poucos meios para colocar em prática, ainda...
+- ⚡ Fun fact: Empreendedor com muitas ideias e poucos meios para colocar em prática.
 
 ##
 
